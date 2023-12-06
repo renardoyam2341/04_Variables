@@ -30,13 +30,13 @@ $conn->close();
         <form method="post">
     <div class="form-group">
     <label>Enter new ID</label>
-    <input type="new id" class="form-control"
+    <input type="number" class="form-control"
     placeholder="xxxxxxxxx" name="new id" autocomplete="off">
     </div>
     
     <div class="form-group">
     <label>Enter new username</label>
-    <input type="new username" class="form-control"
+    <input type="text" class="form-control"
     placeholder="new username" name="new username" autocomplete="off">
     </div>
     
