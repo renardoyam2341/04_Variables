@@ -29,13 +29,13 @@ if($result){
         <form method="post">
     <div class="form-group">
     <label>Enter your ID</label>
-    <input type="id" class="form-control"
+    <input type="number" class="form-control"
     placeholder="xxxxxxxxx" name="id" autocomplete="off">
     </div>
     
     <div class="form-group">
     <label>Enter your username</label>
-    <input type="username" class="form-control"
+    <input type="text" class="form-control"
     placeholder="username" name="username" autocomplete="off">
     </div>
     
