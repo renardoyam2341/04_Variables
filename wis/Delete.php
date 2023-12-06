@@ -30,7 +30,7 @@ $conn->close();
         <form method="post">
     <div class="form-group">
     <label>Enter ID to delete</label>
-    <input type="delete id" class="form-control"
+    <input type="number" class="form-control"
     placeholder="xxxxxxxxx" name="delete id" autocomplete="off">
     </div>
         
